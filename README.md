@@ -6,16 +6,14 @@
 
 ## About
 
-<p>
-  <img src="https://img.freepik.com/free-vector/businessman-holding-pencil-big-complete-checklist-with-tick-marks_1150-35019.jpg?w=996&t=st=1664304327~exp=1664304927~hmac=bfea98ced65bc4f8a790ef34e0458de4a6162dd8149bab231f7821f59bd4a941" width="50%" height="10%"/>
-</p>
-
 Blind 75 is a list of 75 most frequent asked leetcode questions which had helped many developers clear interviews of Google, Facebook, Amazon etc. Hence, it is a tried and tested list with 1000s of testimonials available on all public review platforms such as quora, teamblind etc.
 
 ## Software/Tool
 
-Leetcode
+- ###  <a href="https://leetcode.com/" target="_blank">Leetcode</a>
 
+  LeetCode is one of the most well-known online judge platforms that you can use to practice your programming skills by solving coding questions.
+  
 ## Resource 
 
 Neetcode

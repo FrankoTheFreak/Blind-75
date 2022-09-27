@@ -19,3 +19,12 @@ Blind 75 is a list of 75 most frequent asked leetcode questions which had helped
 - ###  <a href="https://neetcode.io/practice" target="_blank">Neetcode</a>
 
   Neetcode is the website where you will find organised list of all 75 questions sorted according to their difficulties.
+
+## Language
+
+- ###  <a href="https://www.python.org/downloads/" target="_blank">Python</a>
+
+  All the solutions will be written in python programming language.
+  
+### Thanks For Visiting My Repo :blush:
+#### Regards Sagar Mane :heart:

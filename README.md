@@ -16,4 +16,6 @@ Blind 75 is a list of 75 most frequent asked leetcode questions which had helped
   
 ## Resource 
 
-Neetcode
+- ###  <a href="https://neetcode.io/practice" target="_blank">Neetcode</a>
+
+  Neetcode is the website where you will find organised list of all 75 questions sorted according to their difficulties.

@@ -1,7 +1,7 @@
 # Blind-75 Solutions
 
-<p align="center">
-  <img src="https://i.ytimg.com/vi/te0n2HX_1q4/maxresdefault.jpg" width="800" height="450"/>
+<p>
+  <img src="https://i.ytimg.com/vi/te0n2HX_1q4/maxresdefault.jpg" width="85%" height="45%"/>
 </p>
 
 ## What is Blind 75?
